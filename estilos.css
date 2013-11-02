@@ -1,0 +1,53 @@
+body
+{
+	background-color: #EBFFD9;
+	font-family: "Helvetica",Arial;
+}
+#banner
+{
+	width: 960px;
+	margin: 0 auto;
+	text-align: center;
+}
+h5
+{
+	text-align: center;
+
+}
+h1
+{	
+	text-align: center;
+	color: #0080FF;
+}
+h2
+{
+	text-align: center;
+	color: #DD0000
+}
+#menu
+{
+	display: inline-block;
+	margin-right: 20px;
+	color: #1d1d1d;
+	cursor: pointer;
+}
+
+#social
+{
+	text-align: center;
+	cursor: pointer;
+
+}
+#contenido
+{
+	color: #78474A;
+	margin-left: 80px; 
+	text-align: left;
+}
+
+#contenido2
+{
+	color: #78474A;
+	margin-left: 80px; 
+	text-align: left;
+}
